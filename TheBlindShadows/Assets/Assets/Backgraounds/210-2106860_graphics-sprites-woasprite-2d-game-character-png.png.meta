@@ -1,0 +1,883 @@
+fileFormatVersion: 2
+guid: 8143a2a9fb1011d4ea67aaccceec99c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4142664157986256346
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_0
+  - first:
+      213: 2374799096443390747
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_1
+  - first:
+      213: 1055568161441168179
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_2
+  - first:
+      213: -1943693297498827133
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_3
+  - first:
+      213: -3490104800403186005
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_4
+  - first:
+      213: 4739737224763939593
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_5
+  - first:
+      213: 4728797175601577169
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_6
+  - first:
+      213: 1337526876502021696
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_7
+  - first:
+      213: 984189421929293631
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_8
+  - first:
+      213: 7610542489111413476
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_9
+  - first:
+      213: -7222083725442342616
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_10
+  - first:
+      213: 6094429543526088653
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_11
+  - first:
+      213: -5334526271160582159
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_12
+  - first:
+      213: -7647282997230008576
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_13
+  - first:
+      213: 6235267583154321287
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_14
+  - first:
+      213: -1792065669667126128
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_15
+  - first:
+      213: -8442667846807053975
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_16
+  - first:
+      213: 8107697899095995589
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_17
+  - first:
+      213: 8548538727750152317
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_18
+  - first:
+      213: -2475394858528915001
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_19
+  - first:
+      213: -1942889755131702558
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_20
+  - first:
+      213: 7878457047936880469
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_21
+  - first:
+      213: 6964882089008946043
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_22
+  - first:
+      213: 1622230562846185433
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_23
+  - first:
+      213: 8083857091930953617
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_24
+  - first:
+      213: -5220418039358272076
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_25
+  - first:
+      213: -2234529603335071468
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_26
+  - first:
+      213: -8634347418448125631
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_27
+  - first:
+      213: 5845218698308870722
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_28
+  - first:
+      213: 3338749671332227547
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_29
+  - first:
+      213: -6651529896029377609
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_30
+  - first:
+      213: 5966480700395677833
+    second: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 463
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8311a0f6f665ad4d9185f8b41af358b
+      internalID: 4142664157986256346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 463
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c66d391c71de5d49abaae8a83912ed6
+      internalID: 2374799096443390747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 463
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f38e3b49484a94caa02377102f22c2
+      internalID: 1055568161441168179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 463
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576f694a711589044b6a00511a866c2a
+      internalID: -1943693297498827133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 463
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3f8ca31e04c1e4c9f1a2abd188f928
+      internalID: -3490104800403186005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_5
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 463
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1b6435a21e37f4585699bd9c1d3c61
+      internalID: 4739737224763939593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_6
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 463
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde4d94d04e3a6045997341560065751
+      internalID: 4728797175601577169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_7
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 463
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3655c5234b8d4cb43a8d01cad5aae5cc
+      internalID: 1337526876502021696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810946588d3de864aac6452457e11053
+      internalID: 984189421929293631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_9
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 314
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e301dd62f34664cad5030d726e1b9b
+      internalID: 7610542489111413476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_10
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 314
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b373c15df7af25542921e0f8367b1fb5
+      internalID: -7222083725442342616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_11
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 314
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66df929ac5b29b48be6d38d02cdb988
+      internalID: 6094429543526088653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 314
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1778883c99bd142b1fc70bb3712871
+      internalID: -5334526271160582159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_13
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 314
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1375dee1dcf243b46be6e997680566c6
+      internalID: -7647282997230008576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_14
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 314
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6090df7a57ce16046b84742a7becbb44
+      internalID: 6235267583154321287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_15
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 314
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6850b89824e0ee4fa3c500984ca82e4
+      internalID: -1792065669667126128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86441201b248f4948877176a953dc243
+      internalID: -8442667846807053975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 165
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507271d275904604cb6a2dd764ad0eba
+      internalID: 8107697899095995589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_18
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 165
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8dac8941e551149abe08a0069718d7
+      internalID: 8548538727750152317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_19
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 165
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866a7033f240f8a4d859f97b0068c35d
+      internalID: -2475394858528915001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_20
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 165
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceae47495a6a8de4d97d98b7282fc468
+      internalID: -1942889755131702558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_21
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 165
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7ffc018e8da764dbe0a976b4525059
+      internalID: 7878457047936880469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_22
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 165
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcd1a66f56f46e44a346d4f60a17217
+      internalID: 6964882089008946043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_23
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 165
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ccd8cdebc692041a704bf3b6457062
+      internalID: 1622230562846185433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60255974002dc7d4ba24740618880b77
+      internalID: 8083857091930953617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 16
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ed1202e1d2ea64a93c89526e1fb620
+      internalID: -5220418039358272076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_26
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 16
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cd2d9e3b29df344a97c1f69fa6131e
+      internalID: -2234529603335071468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_27
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 16
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba10d1af288d3641adbc35608697f34
+      internalID: -8634347418448125631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_28
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 16
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea9170f8beda8a439f28643e5ca3457
+      internalID: 5845218698308870722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_29
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 16
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c67f4fcc2dbf04ab31d42079b8291f
+      internalID: 3338749671332227547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_30
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 16
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf1f3c3420133343ac9df1b0e0fbcec
+      internalID: -6651529896029377609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 210-2106860_graphics-sprites-woasprite-2d-game-character-png_31
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 16
+        width: 92.5
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c43bfaf77476cf429d8fcd309e699d2
+      internalID: 5966480700395677833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
